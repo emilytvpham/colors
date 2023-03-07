@@ -1,5 +1,7 @@
 red
 green
 blue
+John
+Jane
 pink
 purple
