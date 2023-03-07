@@ -1,4 +1,6 @@
 red
+indigo
+cyan
 green
 blue
 pink
